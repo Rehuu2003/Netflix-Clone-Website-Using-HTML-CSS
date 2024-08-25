@@ -1,0 +1,2 @@
+# Netflix-Clone-Website-Using-HTML-CSS
+A Netflix clone website using HTML and CSS replicates the user interface of the popular streaming platform. It focuses on creating a visually appealing homepage, showcasing movies and series with a clean, responsive layout. Key elements include a navigation bar, content cards with hover effects, and a footer, all styled using modern CSS techniques to mimic the look and feel of Netflix. This project is a great way to practice front-end development skills, particularly in crafting media-rich websites.
